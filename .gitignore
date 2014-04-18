@@ -1,3 +1,8 @@
+# Special Codility files
+interview_twitter1.cpp
+interview_twitter2.cpp
+challenge_*.cpp
+
 # Compiled Object files
 *.slo
 *.lo
